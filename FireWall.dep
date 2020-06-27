@@ -1,0 +1,63 @@
+# Microsoft Developer Studio Generated Dependency File, included by FireWall.mak
+
+.\FireWall.cpp : \
+	".\drvfltip.h"\
+	".\FireWall.h"\
+	".\FireWallDoc.h"\
+	".\FireWallView.h"\
+	".\MainFrm.h"\
+	".\Rules.h"\
+	".\TDriver.h"\
+	
+
+.\FireWall.rc : \
+	".\res\FireWall.ico"\
+	".\res\FireWall.rc2"\
+	".\res\FireWallDoc.ico"\
+	".\res\Toolbar.bmp"\
+	
+
+.\FireWallDoc.cpp : \
+	".\FireWall.h"\
+	".\FireWallDoc.h"\
+	".\Rules.h"\
+	
+
+.\FireWallView.cpp : \
+	".\FireWall.h"\
+	".\FireWallDoc.h"\
+	".\FireWallView.h"\
+	".\Rules.h"\
+	".\SockUtil.h"\
+	
+
+.\MainFrm.cpp : \
+	".\drvfltip.h"\
+	".\FireWall.h"\
+	".\FireWallDoc.h"\
+	".\FireWallView.h"\
+	".\MainFrm.h"\
+	".\RuleDlg.h"\
+	".\Rules.h"\
+	".\SockUtil.h"\
+	".\TDriver.h"\
+	
+
+.\RuleDlg.cpp : \
+	".\FireWall.h"\
+	".\RuleDlg.h"\
+	".\SockUtil.h"\
+	
+
+.\SockUtil.cpp : \
+	".\SockUtil.h"\
+	
+
+.\StdAfx.cpp : \
+	".\StdAfx.h"\
+	"c:\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	
+
+.\TDriver.cpp : \
+	".\TDriver.h"\
+	
